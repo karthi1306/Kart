@@ -5,6 +5,7 @@ public class Test {
 		System.out.println("new framework");
 		System.out.println("thnk you");
 		System.out.println("Second");
+		System.out.println("third");
 	}
 
 }
